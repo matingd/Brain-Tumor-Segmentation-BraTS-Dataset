@@ -46,13 +46,13 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 ## 📊 Benchmarks & Metrics
 
-| Class                | Dice Score | IoU  |
-| -------------------- | ---------- | ---- |
-| Whole Tumor (WT)     | 0.89       | 0.82 |
-| Tumor Core (TC)      | 0.78       | 0.70 |
-| Enhancing Tumor (ET) | 0.71       | 0.60 |
-
-![Dice vs. Epoch](assets/dice_epoch.png)
+![Benchmark comparison](assets/bemchmark_comparison.png)
+![Dice vs. Epoch](assets/dice_curve.png)
+![IOU vs. Epoch](assets/iou_curve.png)
+![Loss vs. Epoch](assets/loss_curve.png)
+![Precision vs. Epoch](assets/precision_curve.png)
+![Sensitivity vs. Epoch](assets/sensitivity_curve.png)
+![Specificity vs. Epoch](assets/specificity_curve.png)
 
 ---
 

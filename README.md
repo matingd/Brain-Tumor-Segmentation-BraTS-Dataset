@@ -20,12 +20,12 @@ Format of photos used: T1, T1Gd, T2, FLAIR.
 
 ![Architecture Diagram](assets/architecture.png)
 
-We employ a U-Net based backbone with attention gates to refine segmentation masks. Key components:
+We employ a 3D U-Net (UNet3D) architecture for volumetric brain tumor segmentation. This model processes the full 3D MRI volumes directly, preserving spatial context across slices. Key components:
 
-1. **Encoder**: 4 downsampling blocks (Conv → ReLU → MaxPool)
-2. **Bottleneck**: Dilated conv layers
-3. **Decoder**: 4 upsampling blocks + skip-connections
-4. **Attention Gates** on skip paths for feature selection
+1. **Encoder**: Four 3D convolutional downsampling blocks (Conv3D → ReLU → MaxPool3D)
+2. **Bottleneck**: Dilated 3D convolution layers for capturing multi-scale context
+3. **Decoder**: Four 3D upsampling blocks with skip-connections to recover spatial resolution
+4. **Attention Gates**: Integrated on skip paths to refine feature selection and suppress irrelevant activations
 
 ---
 

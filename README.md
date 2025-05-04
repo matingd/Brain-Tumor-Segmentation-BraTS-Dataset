@@ -12,7 +12,7 @@ A deep-learning pipeline for **brain tumor segmentation** on the BraTS dataset. 
 * **Tumor Core (TC)**
 * **Enhancing Tumor (ET)**
 
-Modalities used: T1, T1Gd, T2, FLAIR.
+Format of photos used: T1, T1Gd, T2, FLAIR.
 
 ---
 

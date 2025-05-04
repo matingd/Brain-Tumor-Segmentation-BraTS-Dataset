@@ -67,7 +67,7 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 <table>
   <tr>
-    <td colspan="3" align="center"><img src="benchmark_comparison.png" width="720"/></td>
+    <td colspan="3" align="center"><img src="assets/benchmark_comparison.png" width="720"/></td>
   </tr>
   <tr>
     <td><img src="assets/specificity_curve.png" width="360"/></td>

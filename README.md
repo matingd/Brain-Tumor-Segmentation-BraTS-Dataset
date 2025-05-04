@@ -40,14 +40,7 @@ pip install -r requirements.txt
 
 **Data**
 
-1. Download BraTS 2021 dataset from \[MICCAI website].
-2. Organize files:
-
-   ```
-   data/BraTS2021/
-   ├── HGG
-   └── LGG
-   ```
+Download BraTS 2021 dataset from \[[MICCAI website](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)].
 
 ---
 

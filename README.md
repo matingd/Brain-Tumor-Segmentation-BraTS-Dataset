@@ -40,29 +40,7 @@ pip install -r requirements.txt
 
 **Data**
 
-Download BraTS 2021 dataset from \[[kaggle website](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)].
-
----
-
-## 🚀 Usage
-
-**Training**
-
-```bash
-python src/train.py \
-  --data_dir ./data/BraTS2021 \
-  --epochs 100 \
-  --batch_size 4 \
-  --lr 1e-4
-```
-
-**Inference / Evaluation**
-
-```bash
-python src/evaluate.py \
-  --checkpoint ./results/best_model.pth \
-  --output_dir ./results/predictions
-```
+Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)].
 
 ---
 

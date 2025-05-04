@@ -6,8 +6,7 @@ A deep-learning pipeline for **brain tumor segmentation** on the BraTS dataset. 
 * **Tumor Core (TC)**
 * **Enhancing Tumor (ET)**
 
-Format of photos used: T1, T1Gd, T2, FLAIR.
-
+Modalities used: T1, T1Gd T2, FLAIR.
 ---
 
 ## 🏗️ Architecture
@@ -28,7 +27,7 @@ We employ a 3D U-Net (UNet3D) architecture for volumetric brain tumor segmentati
 **Prerequisites**
 
 ```bash
-python >=3.8
+python >=3.8,<3.11
 pip install -r requirements.txt
 ```
 
@@ -86,7 +85,7 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 ---
 
 ## 🤝 Contributing & Contact
-
+Feel free to reach out by opening an issue or pull request. For direct questions, you may also contact:
 * **Author**: Matin Gharehdaghi matingd.work@gmail.com
 * **Acknowledgements**: Thanks to the MICCAI BraTS organizers and the research community.
 

@@ -48,17 +48,19 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 <table>
   <tr>
-    <td><img src="assets/benchmark_comparison.png" width="240"/></td>
-    <td><img src="assets/dice_curve.png" width="240"/></td>
-    <td><img src="assets/iou_curve.png" width="240"/></td>
+    <td colspan="3" align="center"><img src="assets/specificity_curve.png" width="720"/></td>
   </tr>
   <tr>
-    <td><img src="assets/loss_curve.png" width="240"/></td>
-    <td><img src="assets/precision_curve.png" width="240"/></td>
-    <td><img src="assets/sensitivity_curve.png" width="240"/></td>
+    <td><img src="assets/benchmark_comparison.png" width="360"/></td>
+    <td><img src="assets/dice_curve.png" width="360"/></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><img src="assets/specificity_curve.png" width="240"/></td>
+    <td><img src="assets/loss_curve.png" width="360"/></td>
+    <td><img src="assets/precision_curve.png" width="360"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/sensitivity_curve.png" width="360"/></td>
+    <td><img src="assets/iou_curve.png" width="360"/></td>
   </tr>
 </table>
 

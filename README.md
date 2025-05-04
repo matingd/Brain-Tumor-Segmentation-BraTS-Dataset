@@ -44,14 +44,33 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 ---
 
+## 📊 Predicted & Real images
+
+<table>
+  <tr>
+    <td><img src="test_example/example_1.png" width="360"/></td>
+    <td><img src="test_example/example_2.png" width="360"/></td>
+  </tr>
+  <tr>
+    <td><img src="test_example/example_3.png" width="360"/></td>
+    <td><img src="test_example/example_4.png" width="360"/></td>
+  </tr>
+  <tr>
+    <td><img src="test_example/example_5.png" width="360"/></td>
+    <td><img src="test_example/example_6.png" width="360"/></td>
+  </tr>
+</table>
+
+---
+
 ## 📊 Benchmarks & Metrics
 
 <table>
   <tr>
-    <td colspan="3" align="center"><img src="assets/specificity_curve.png" width="720"/></td>
+    <td colspan="3" align="center"><img src="benchmark_comparison.png" width="720"/></td>
   </tr>
   <tr>
-    <td><img src="assets/benchmark_comparison.png" width="360"/></td>
+    <td><img src="assets/specificity_curve.png" width="360"/></td>
     <td><img src="assets/dice_curve.png" width="360"/></td>
   </tr>
   <tr>

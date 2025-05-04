@@ -1,9 +1,3 @@
-**Project Title: Brain Tumor Segmentation**
-
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) 
-
----
-
 ## 📖 Introduction
 
 A deep-learning pipeline for **brain tumor segmentation** on the BraTS dataset. We segment three tumor sub-regions:

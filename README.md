@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 **Data**
 
-Download BraTS 2021 dataset from \[[MICCAI website](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)].
+Download BraTS 2021 dataset from \[[kaggle website](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation)].
 
 ---
 

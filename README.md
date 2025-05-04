@@ -93,7 +93,7 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 ## 🤝 Contributing & Contact
 
-* **Author**: Matin Gharehdaghi ([email](matingd.work@gmail.com))
+* **Author**: Matin Gharehdaghi matingd.work@gmail.com
 * **Acknowledgements**: Thanks to the MICCAI BraTS organizers and the research community.
 
 Feel free to open issues or PRs for improvements!

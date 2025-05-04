@@ -48,16 +48,16 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 <table>
   <tr>
-    <td><img src="test_example/example_1.png" width="360"/></td>
-    <td><img src="test_example/example_2.png" width="360"/></td>
+    <td><img src="test_example/example_1.png" width="480"/></td>
+    <td><img src="test_example/example_2.png" width="480"/></td>
   </tr>
   <tr>
-    <td><img src="test_example/example_3.png" width="360"/></td>
-    <td><img src="test_example/example_4.png" width="360"/></td>
+    <td><img src="test_example/example_3.png" width="480"/></td>
+    <td><img src="test_example/example_4.png" width="480"/></td>
   </tr>
   <tr>
-    <td><img src="test_example/example_5.png" width="360"/></td>
-    <td><img src="test_example/example_6.png" width="360"/></td>
+    <td><img src="test_example/example_5.png" width="480"/></td>
+    <td><img src="test_example/example_6.png" width="480"/></td>
   </tr>
 </table>
 

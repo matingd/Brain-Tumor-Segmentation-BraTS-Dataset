@@ -18,7 +18,7 @@ Format of photos used: T1, T1Gd, T2, FLAIR.
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](assets/3D-U-Net-architecture-diagram.png)
 
 We employ a 3D U-Net (UNet3D) architecture for volumetric brain tumor segmentation. This model processes the full 3D MRI volumes directly, preserving spatial context across slices. Key components:
 

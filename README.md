@@ -46,13 +46,21 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 ## 📊 Benchmarks & Metrics
 
-![Benchmark comparison](assets/bemchmark_comparison.png)
-![Dice vs. Epoch](assets/dice_curve.png)
-![IOU vs. Epoch](assets/iou_curve.png)
-![Loss vs. Epoch](assets/loss_curve.png)
-![Precision vs. Epoch](assets/precision_curve.png)
-![Sensitivity vs. Epoch](assets/sensitivity_curve.png)
-![Specificity vs. Epoch](assets/specificity_curve.png)
+<table>
+  <tr>
+    <td><img src="assets/bemchmark_comparison.png" width="120"/></td>
+    <td><img src="assets/dice_curve.png" width="120"/></td>
+    <td><img src="assets/iou_curve.png" width="120"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/loss_curve.png" width="120"/></td>
+    <td><img src="assets/precision_curve.png" width="120"/></td>
+    <td><img src="assets/sensitivity_curve.png" width="120"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="assets/specificity_curve.png" width="120"/></td>
+  </tr>
+</table>
 
 ---
 

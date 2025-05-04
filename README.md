@@ -85,37 +85,15 @@ Download BraTS 2020 dataset from \[[kaggle website](https://www.kaggle.com/datas
 
 ---
 
-## ⏱️ Runtime & Resources
-
-* **GPU**: NVIDIA Tesla V100, 16 GB VRAM
-* **Training time**: \~2 hours / epoch
-* **Inference speed**: \~0.5 sec / volume on GPU
-
----
-
-## 🗂️ Repository Structure
-
-```
-├── assets/               # figures, diagrams, sample outputs
-├── data/                 # raw & preprocessed data
-├── src/                  # training, evaluation scripts
-├── notebooks/            # exploratory analysis
-├── results/              # trained models, logs, predictions
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 📝 License
-
-This project is released under the **MIT License**.
+- **Code License**: This repository’s **code** is released under the MIT License.
+- **Dataset License**: MRI scans and annotations were downloaded from Kaggle and are subject to Kaggle’s dataset license terms. 
 
 ---
 
 ## 🤝 Contributing & Contact
 
-* **Author**: Your Name ([email@example.com](mailto:email@example.com))
+* **Author**: Matin Gharehdaghi ([email](matingd.work@gmail.com))
 * **Acknowledgements**: Thanks to the MICCAI BraTS organizers and the research community.
 
 Feel free to open issues or PRs for improvements!

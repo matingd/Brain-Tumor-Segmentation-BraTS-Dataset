@@ -1,0 +1,7 @@
+tensorflow
+os
+opencv-python
+nibabel
+nilearn
+scikit-image
+scikit-learn
